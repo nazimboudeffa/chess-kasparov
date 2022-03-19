@@ -6,4 +6,4 @@ Les cases e4, d4, e5, d5 au centre de l'échiquier sont très importantes. Ils s
 
 Une expression comme 'bataille pour le cenre', 'domination dans le centre' et 'undermining le centre' aussi reflètent le moment crucial du combat et sont bien connu de tout joueur d'échecs expérimenté.
 
-Le struggle pour le centre commence avec les premiers mouvements
+La lutte pour le centre commence avec les premiers mouvements
