@@ -1,6 +1,6 @@
 # Lesson 4 : The Importance of the Centre
 
-Les cases e4, d4, e5, d5 au centre de l'échiquier sont très importants. Ils sont comme une montagne donnant une vue terrain de la bataille d'échecs et permettant un knock-out blow délivré sur n'importe quel objectif de l'échiquier.
+Les cases e4, d4, e5, d5 au centre de l'échiquier sont très importantes. Ils sont comme une montagne donnant une vue terrain de la bataille d'échecs et permettant un knock-out blow délivré sur n'importe quel objectif de l'échiquier.
 
 ![img-4-1](img-4-1.png)
 
